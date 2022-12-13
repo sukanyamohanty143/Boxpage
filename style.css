@@ -1,0 +1,49 @@
+#maincontener{
+    width: 70.1vw;
+    height: 96.5vh;
+    margin-left: 100px;
+    border: 1px solid black;
+}
+#headercontener{
+    width: 70vw;
+    height: 13vh;
+    background-color: chartreuse;
+    display: grid;
+    grid-template-columns: 0.1fr 0.1fr 0.1fr;
+}
+
+#header1,#header2,#header3{
+    width: 5vw;
+    height: 8vh;
+    margin-top: 20%;
+    margin-left: 20%;
+    background-color: rgb(255, 31, 199);
+}
+
+
+
+#contener1{
+    width: 20.1vw;
+    height: 70vh;
+    border: 2px solid black;
+}
+
+#contener2{
+    width: 70.1vw;
+    height: 13vh;
+    background-color: rgb(234, 29, 182);
+}
+
+.side1,.side2,.side3,.side4,.side5,.side6{
+    width: 20vw;
+    height: 11.5vh;
+    border: 1px solid black;
+}
+.roundBox{
+    width: 8vw; height: 6vh; 
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 48em; 
+    position: relative;
+    top: 20%;
+}
